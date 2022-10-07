@@ -1,0 +1,6 @@
+.left-menu li a.active {
+    background-color: #CA8A04;
+    border-radius: 5px;
+    padding: 6px 3px;
+    color: #fff
+}
